@@ -35,6 +35,9 @@ h2 {
     font-weight: 300;
 }
 
+.recipes figure {
+    margin: 0;
+}
 
 p {
     font-size: 13px;
@@ -89,3 +92,4 @@ li {
 .nonumb {
     list-style: none;
 }
+
