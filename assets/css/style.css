@@ -1,95 +1,94 @@
 .logo {
-    display: block;
-    margin-inline: AUTO;
-    width: 150px;
-    padding-bottom: 1%;
+  display: block;
+  margin-inline: AUTO;
+  width: 150px;
+  padding-bottom: 1%;
 }
 
 #banner {
-    background-color: #fdfbf1;
-    padding: 3px;
-    text-align: center;
-    border-top: 2px solid #ffd877;
+  background-color: #fdfbf1;
+  padding: 3px;
+  text-align: center;
+  border-top: 2px solid #ffd877;
 }
 
 #banner-text {
-    font-size: 13px;
-    color: #004d4c;
+  font-size: 13px;
+  color: #004d4c;
 }
 
-
 main {
-    display: block;
-    margin-inline: AUTO;
-    width: 550px;
-    margin-top: 3%;
-
+  display: block;
+  margin-inline: AUTO;
+  width: 550px;
+  margin-top: 3%;
 }
 
 h1 {
-    text-align: center;
-    font-size: 35px;
+  text-align: center;
+  font-size: 35px;
 }
 
 h2 {
-    font-weight: 300;
+  font-weight: 300;
 }
 
 .recipes figure {
-    margin: 0;
+  margin: 0;
 }
 
 p {
-    font-size: 13px;
+  font-size: 13px;
 }
 
 .recipe-img {
-    width: 550px;
-    border-radius: 8px;
-    box-shadow: 3px 3px 9px #454545;
-
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 3px 3px 9px #454545;
 }
 
 figcaption {
-    text-align: center;
-    font-size: 13px;
-    color: lightslategrey;
-    margin-top: 0.8rem;
+  text-align: center;
+  font-size: 13px;
+  color: lightslategrey;
+  margin-top: 0.8rem;
 }
 
 h5 {
-    margin: 0%;
-    margin-top: 25px;
-    color: #c3663f;
+  margin: 0%;
+  margin-top: 25px;
+  color: #c3663f;
 }
 
 a {
-    font-size: 14px;
-    color: #107777;
+  font-size: 14px;
+  color: #107777;
 }
 
 .ingredients {
-    margin-top: 35px;
+  margin-top: 35px;
 }
 
 .line {
-
-    height: 2px;
-    background-color: #c4f3f2;
-
+  height: 2px;
+  background-color: #c4f3f2;
 }
 
 li {
-    padding: 6px;
-    font-size: 13px;
+  padding: 6px;
+  font-size: 13px;
 }
 
 .subtitle {
-    font-size: 14px;
-    font-weight: bold;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 .nonumb {
-    list-style: none;
+  list-style: none;
 }
 
+.featured {
+  padding-left: 4px;
+  border-left: 2px solid #ffd877;
+}
